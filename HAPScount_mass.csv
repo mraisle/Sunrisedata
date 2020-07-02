@@ -1,0 +1,154 @@
+"","HAP1$POLLUTANT_NAME","count"
+"1","Toluene",492
+"2","Fluoranthene",440
+"3","Benzene",437
+"4","Naphthalene",431
+"5","Formaldehyde",419
+"6","Nickel",411
+"7","Pyrene",404
+"8","Phenanthrene",403
+"9","Fluorene",401
+"10","Mercury",395
+"11","Cadmium",390
+"12","Manganese",380
+"13","Chromium(VI)",369
+"14","Arsenic",367
+"15","Chromium(III)",362
+"16","Hexane",341
+"17","Chrysene",322
+"18","Benz[a]anthracene",304
+"19","Cobalt",301
+"20","Xylene",272
+"21","Acetaldehyde",255
+"22","2-Methylnaphthalene",251
+"23","Anthracene",250
+"24","Selenium",215
+"25","Beryllium",213
+"26","Ethylbenzene",170
+"27","Polycyclic aromatic hydrocarbons",156
+"28","Acrolein",146
+"29","Methanol",131
+"30","Acenaphthene",105
+"31","Benzo[ghi]perylene",105
+"32","Acenaphthylene",100
+"33","Hydrochloric acid",86
+"34","Methylene chloride",81
+"35","Antimony",77
+"36","Benzo[a]pyrene",75
+"37","Indeno[1,2,3-cd]pyrene",72
+"38","Benzo(b)fluoranthene",61
+"39","Phenol",58
+"40","Dibenz[a,h]anthracene",51
+"41","Hydrofluoric acid",48
+"42","Styrene",48
+"43","1,3-Butadiene",47
+"44","Ethylene glycol",47
+"45","Methyl isobutyl ketone",47
+"46","Tetrachloroethylene",44
+"47","Chromium",42
+"48","Phosphorus",40
+"49","Chloroform",36
+"50","Trichloroethylene",36
+"51","Chlorobenzene",32
+"52","Vinyl acetate",32
+"53","1,2-Dichloroethane",31
+"54","Chloromethane",31
+"55","Methyl methacrylate",31
+"56","N,N-Dimethylformamide",31
+"57","o-Xylene",31
+"58","PAH/POM - Unspecified",31
+"59","Benz[e]acephenanthrylene and/or Benzo[k]fluoranthene",30
+"60","Chloroethane",30
+"61","Chlorine",27
+"62","Lead and compounds",27
+"63","Carbon disulfide",26
+"64","Ethylene dibromide",26
+"65","Benzo[k]fluoranthene",25
+"66","Methyl tert-butyl ether",25
+"67","Di(2-ethylhexyl) phthalate",24
+"68","Propionaldehyde",24
+"69","Vinyl chloride",23
+"70","Cumene",21
+"71","Propylene oxide",21
+"72","Cyanide",20
+"73","1,2-Dichloropropane",18
+"74","Acrylonitrile",18
+"75","Biphenyl",18
+"76","1,1,1-Trichloroethane",17
+"77","1,1,2,2-Tetrachloroethane",17
+"78","Acetophenone",17
+"79","Carbon tetrachloride",17
+"80","Methyl bromide",17
+"81","1,1-Dichloroethylene",16
+"82","1,1-Dichloroethane",14
+"83","Dibutyl phthalate",14
+"84","2-Chloroacetophenone",13
+"85","2,4-Dinitrotoluene",13
+"86","5-Methylchrysene",13
+"87","Benzyl chloride",13
+"88","Carbonyl sulfide",13
+"89","Dimethyl sulfate",13
+"90","Isophorone",13
+"91","Methyl hydrazine",13
+"92","p-Dichlorobenzene",13
+"93","Tribromomethane",13
+"94","2,2,4-Trimethylpentane",12
+"95","Benzo[e]pyrene",12
+"96","Triethylamine",11
+"97","3-Methylcholanthrene",10
+"98","7,12-Dimethylbenz[a]anthracene",10
+"99","Acrylic acid",10
+"100","Benzofluoranthene",9
+"101","Acetonitrile",8
+"102","Hydrogen cyanide",8
+"103","Mercury ion (Hg2+)",8
+"104","Perylene",8
+"105","1-Methylnaphthalene",7
+"106","4,4'-Methylenedi(phenyl isocyanate)",7
+"107","Chlorinated dioxins and furans -- 2,3,7,8 congeners only",7
+"108","m-Xylene",7
+"109","Maleic anhydride",7
+"110","Mercury and compounds",7
+"111","Antimony and compounds",6
+"112","Ethyl acrylate",6
+"113","Chromium and compounds",5
+"114","Epichlorohydrin",5
+"115","Hydrazine",5
+"116","Phthalic anhydride",5
+"117","2,4-Dinitrophenol",4
+"118","Chlorinated dibenzo-p-dioxins",4
+"119","Chromic(VI) acid",4
+"120","Nickel and compounds",4
+"121","p-Nitrophenol",4
+"122","Pentachlorophenol",4
+"123","1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",3
+"124","1,2,3,4,6,7,8-Heptachlorodibenzofuran",3
+"125","1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",3
+"126","1,2,3,4,7,8-Hexachlorodibenzofuran",3
+"127","1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",3
+"128","1,2,3,6,7,8-Hexachlorodibenzofuran",3
+"129","1,2,3,7,8-Pentachlorodibenzo-p-dioxin",3
+"130","1,2,3,7,8-Pentachlorodibenzofuran",3
+"131","1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",3
+"132","2,3,4,6,7,8-Hexachlorodibenzofuran",3
+"133","2,3,4,7,8-Pentachlorodibenzofuran",3
+"134","Acrylamide",3
+"135","Toluene-2,4-diisocyanate",3
+"136","2,3,7,8-Tetrachlorodibenzo-p-dioxin",2
+"137","2,3,7,8-Tetrachlorodibenzofuran",2
+"138","Cadmium and compounds",2
+"139","Diethylene glycol monobutyl ether",2
+"140","Dioxins",2
+"141","Glycol ethers",2
+"142","1,1,2-Trichloroethane",1
+"143","1,2,3,4,7,8,9-Heptachlorodibenzofuran",1
+"144","1,2,3,7,8,9-Hexachlorodibenzofuran",1
+"145","1,3-Dichloropropene",1
+"146","1,4-Dioxane",1
+"147","2-Chloronaphthalene",1
+"148","Arsenic and compounds (inorganic including arsine)",1
+"149","Arsine",1
+"150","Cobalt and compounds",1
+"151","Cyanide and compounds",1
+"152","Ethylene glycol monoethyl ether acetate",1
+"153","Manganese and compounds",1
